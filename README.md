@@ -22,14 +22,14 @@
 #### Note: - base learner is nothing is a decision tree. In classification we pick all the base learners output and select majority voting output as random forest output and in regression we simple calculate the average of base learner output. 
 
 ## to clone this project copy the url from url bar, open your folder and write git clone <paste url> (copied url from url bar or address bar )
-## after the few sec entire project colone in your local syatem.
+## after the few sec entire project clone in your local syatem.
 
-# to find the prediction:- 
-## 1. create a enviroment in your local system 
-## 2. run the setup.py file 
-## if the requirement.txt file is not run plz run the requirement.txt file by python -r requirement.txt
-## 3. run the training pipeline component by python src/pipelines/training_pipeline.py
-## 4. then run the application.py file 
+# To find the prediction:- 
+## 1. create a virtual enviroment in your local system 
+## 2. run the setup.py file  by <python setup.py install>
+## if the requirement.txt file is not run plz run the requirement.txt file by <python -r requirement.txt>
+## 3. run the training pipeline component by <python src/pipelines/training_pipeline.py>
+## 4. then run the <application.py> file 
 ### now you are ready to find the prediction. 
 
 #### Thanking you 
