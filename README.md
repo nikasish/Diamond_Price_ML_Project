@@ -26,9 +26,9 @@
 
 # To find the prediction:- 
 ## 1. create a virtual enviroment in your local system 
-## 2. run the setup.py file  by <python setup.py install> 
-## if the requirement.txt file is not run plz run the requirement.txt file by <python -r requirement.txt>
-## 3. run the training pipeline component by <python src/pipelines/training_pipeline.py>
+## 2. run the setup.py file  by < python setup.py install > 
+## if the requirement.txt file is not run plz run the requirement.txt file by < python -r requirement.txt >
+## 3. run the training pipeline component by < python src/pipelines/training_pipeline.py >
 ## 4. then run the <application.py> file 
 ### now you are ready to find the prediction. 
 
